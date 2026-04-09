@@ -114,7 +114,7 @@ project-folder/
 
 ---
 
-## 📊 CSV Output Format
+## 📊 CSV Output Format(Example)
 
 ```
 Name,UID,Entry Time,Exit Time
